@@ -1,0 +1,54 @@
+.wages{
+    width: 1300px;
+    margin: 0 auto;
+}
+.wages-mk1{
+    margin-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+.wages-mk1 p{
+    color: #037cd9;
+    font-size: 4.0rem;
+    font-family: "微软雅黑"!important;
+}
+.wages-mk1 span{
+    color: #f04141;
+}
+.wages-mk2{
+    margin: 40px auto;
+    width: 950px;
+    text-align: center;
+    padding-bottom: 30px;
+    border-bottom: 1.5px solid #ccc;
+}
+.wages-mk2 p{
+    font-size: 1.6rem;
+    color: #404040;
+}
+.wages-mk3{
+   width: 100%;
+}
+.wages-mk3 a{
+    display: block;
+    width: 208px;
+    height: 39px;
+    background-color: #cf256d;
+    color: #fcff00;
+    margin: 40px auto;
+    margin-top: 20px;
+    margin-bottom: 80px;
+    font-size: 1.6rem;
+    text-align: center;
+    padding-top: 10px;
+    transition: all .2s ease;
+
+}
+.wages-mk3 a:hover{
+    background-color: #fff;
+    border: 1px solid #cf256d;
+    color:  #cf256d;
+}
+.wages2{
+    display: none;
+}

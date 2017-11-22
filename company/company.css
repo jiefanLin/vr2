@@ -1,0 +1,57 @@
+.company{
+    width: 1300px;
+    margin: 0 auto;
+    padding-top: 50px;
+    background:url(../images/bge_67_1.jpg)
+}
+.company-mk1{
+    width: 100%;
+    text-align: center;
+}
+.company-mk1 p{
+    color: #037cd9;
+    font-size: 4.0rem;
+    font-family: "微软雅黑"!important;
+}
+.company-mk1 span{
+    color: #f04141;
+}
+.company-mk2{
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.company-mk2 p{
+    font-size: 1.5rem;
+    color: #fff;
+}
+.company-mk3{
+    width: 731px;
+    margin: 0 auto;
+}
+.company-mk3 img{
+    max-width: 100%;
+    height: auto;
+}
+.company-mk4{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    width: 731px;
+    margin: 0 auto;
+}
+.company-mk4 ul{
+    overflow: hidden;
+    list-style: none;
+    margin-left: 100px;
+}
+.company-mk4 ul li{
+    float: left;
+}
+.company-mk4 ul li+li{
+    margin-left: 130px;
+}
+.company-mk4 ul li img{
+    width: 196px;
+    height: auto;
+}

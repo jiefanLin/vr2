@@ -1,0 +1,39 @@
+.vocation{
+    width: 1300px;
+    margin: 0 auto;
+}
+.vocation-mk1{
+    margin-top: 100px;
+    width: 100%;
+    text-align: center;
+}
+.vocation-mk1 p{
+    color: #037cd9;
+    font-size: 4.0rem;
+    font-family: "微软雅黑"!important;
+}
+.vocation-mk1 span{
+    color: #f04141;
+}
+.vocation-mk2{
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+}
+.vocation-mk2 p{
+    font-size: 1.6rem;
+    color: #404040;
+}
+.vocation-mk3{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    width:650px;
+    margin: 0 auto;
+}
+.vocation-mk3 img{
+    max-width: 100%;
+    height: auto;
+}
+.vocation2{
+    display: none;
+}

@@ -1,0 +1,57 @@
+.course{
+    width: 1300px;
+    margin: 0 auto;
+    background:url(../images/bgo_81.jpg);
+}
+.course-mk1{
+    padding-top:100px;
+    width: 100%;
+    text-align: center;
+}
+.course-mk1 p{
+    color: #037cd9;
+    font-size: 4.0rem;
+    font-family: "微软雅黑"!important;
+}
+.course-mk1 span{
+    color: #f04141;
+}
+.course-mk2{
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+    padding-bottom: 50px;
+}
+.course-mk2 p{
+    font-size: 1.5rem;
+    color: #fff;
+}
+.course-mk3{
+    width: 812.5px;
+    margin: 0 auto;
+}
+.course-mk3 img{
+    max-width: 100%;
+    height: auto;
+}
+.course-mk4{
+    padding-top: 40px;
+    padding-bottom: 60px;
+    width: 812.5px;
+    margin: 0 auto;
+}
+.course-mk4 img{
+    width: 196px;
+    height: auto;
+}
+.course-mk4 ul{
+    overflow: hidden;
+    list-style: none;
+    margin-left: 150px;
+}
+.course-mk4 ul li{
+    float: left;
+}
+.course-mk4 ul li+li{
+    margin-left: 150px;
+}

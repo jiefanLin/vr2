@@ -1,0 +1,45 @@
+.footer{
+    width: 1300px;
+    height: 130px;
+    margin: 0 auto;
+    background-color: #212121;
+    overflow: hidden;
+}
+.footer-mk1{
+    float: left;
+    width: 57%;
+    overflow: hidden;
+}
+.footer-mk1-p{
+    float: right;
+    text-align: left;
+    color: #fff;
+    line-height: 25px;
+    font-size: 1.3rem;
+    margin-top: 20px;
+}
+.footer-mk2{
+    float: left;
+    width: 43%;
+    overflow: hidden;
+    padding-top: 25px;
+    padding-left: 40px;
+}
+.footer-mk2-left{
+    float: left;
+}
+.footer-mk2-left img{
+    width: 106px;
+    height: auto;
+}
+.footer-mk2-right{
+    float: left;
+    margin-left: 30px;
+}
+.footer-mk2-right img{
+    width: 70.8px;
+    height: auto;
+}
+.a4{
+    display: none;
+}

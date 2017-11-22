@@ -1,0 +1,31 @@
+.future{
+    padding-top: 80px;
+    width: 1300px;
+    height: 731px;
+    margin: 0 auto;
+    background:url(../images/rc1300.jpg);
+}
+.future-mk1{
+    width: 100%;
+    text-align: center;
+}
+.future-mk1 p{
+    color: #037cd9;
+    font-size: 4.0rem;
+    font-family: "微软雅黑"!important;
+}
+.future-mk1 span{
+    color: #f04141;
+}
+.future-mk2{
+    padding-top: 34px;
+    padding-bottom: 30px;
+    width: 100%;
+    text-align: center;
+}
+.future-mk2 p{
+    font-size: 1.5rem;
+}
+.rc{
+    display: none;
+}
